@@ -1,0 +1,7 @@
+order_id,customer_id,product_id,quantity,price,order_date,status
+1001,501,P-100,2,49.99,2023-11-01,completed
+1002,502,P-101,1,19.99,2023-11-01,pending
+1003,503,P-102,3,29.90,2023-11-02,completed
+1004,504,P-103,1,9.99,2023-11-02,cancelled
+1005,505,P-104,5,15.00,2023-11-03,completed
+
